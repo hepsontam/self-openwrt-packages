@@ -613,8 +613,8 @@ Maintainer: Gerard Ryan <G.M0N3Y.2503@gmail.com>
 Architecture: x86_64
 Installed-Size: 13052110
 Filename: docker_20.10.7-1_x86_64.ipk
-Size: 12975832
-SHA256sum: 3898800023e28d62d0859eea876c0007a0f07374e664f5ca8014e4be8ab880c3
+Size: 12975726
+SHA256sum: c9c41e93938756763c22d2b2dcd4e9ddf19b94e00fb91a2bc7543cf01bd736e3
 Description:  The CLI used in the Docker CE and Docker EE products.
 
 Package: dockerd
@@ -1454,10 +1454,10 @@ SourceDateEpoch: 1628949897
 CPE-ID: cpe:/a:nodejs:node.js
 Maintainer: Hirokazu MORIKAWA <morikw2@gmail.com>, Adrian Panella <ianchi74@outlook.com>
 Architecture: x86_64
-Installed-Size: 10840458
+Installed-Size: 10840439
 Filename: node_v14.17.0-2_x86_64.ipk
-Size: 10750633
-SHA256sum: 9f715887b020573de75c6d2e610fe8e5097eec90bbe7f26f6251e11072d8832a
+Size: 10750773
+SHA256sum: 8974f94a424abf2ebe34ecdb3359ff446cf447a54dd175a222b1005e7b3a62af
 Description:  Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses
  an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js'
  package ecosystem, npm, is the largest ecosystem of open source libraries in the world.

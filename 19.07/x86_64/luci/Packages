@@ -48,18 +48,6 @@ Size: 10120
 SHA256sum: e9c414a8e29d5d08dedc0f6318728f9d266dbb1c5b2d9c0bdb80af0f772da89a
 Description:  LuCI Support for Aria2
 
-Package: luci-app-ddns
-Version: 2.4.9-7
-Depends: libc, luci-compat, luci-lib-ipkg, luci-mod-admin-full, ddns-scripts
-License: Apache-2.0
-Section: luci
-Architecture: all
-Installed-Size: 26377
-Filename: luci-app-ddns_2.4.9-7_all.ipk
-Size: 27298
-SHA256sum: b3377266605012dca870a4b08b9668512014eae7cc582c95bb3d4eff599c8b33
-Description:  LuCI Support for Dynamic DNS Client (ddns-scripts)
-
 Package: luci-app-firewall
 Version: git-21.222.69112-b41f377-1
 Depends: libc, firewall
@@ -208,18 +196,6 @@ Filename: luci-i18n-base-zh-cn_git-21.222.69112-b41f377-1_all.ipk
 Size: 28918
 SHA256sum: e5935944257513d481011502ebe98ca680ab487453c5e82a9336f2043ad784b4
 Description:  Translation for luci-base - 中文 (Chinese)
-
-Package: luci-i18n-ddns-zh-cn
-Version: 2.4.9-7
-Depends: libc, luci-app-ddns
-License: Apache-2.0
-Section: luci
-Architecture: all
-Installed-Size: 5874
-Filename: luci-i18n-ddns-zh-cn_2.4.9-7_all.ipk
-Size: 6761
-SHA256sum: 3158cff4c4055a7660ef006285d9cd8514ee04a9ba97ab61b1c8bffb2d5ff246
-Description:  Translation for luci-app-ddns - 中文 (Chinese)
 
 Package: luci-i18n-firewall-zh-cn
 Version: git-21.222.69112-b41f377-1

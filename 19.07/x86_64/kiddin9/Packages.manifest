@@ -1,0 +1,1023 @@
+Package: chinadns-ng
+Version: 1.0-beta.25-1
+Depends: libc, ipset
+Source: feeds/kiddin9/chinadns-ng
+SourceName: chinadns-ng
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: pexcn <i@pexcn.me>
+Architecture: x86_64
+Installed-Size: 18082
+Filename: chinadns-ng_1.0-beta.25-1_x86_64.ipk
+Size: 18886
+SHA256sum: f998c76e53ff82e541d99258cf3e3ad4e24f41bfec6d2f818c026e2c9f14ec79
+Description:  ChinaDNS next generation, refactoring with epoll and ipset.
+
+Package: ddns-scripts-aliyun
+Version: 1.0.3-6
+Depends: libc, ddns-scripts, curl, jsonfilter, openssl-util
+Source: feeds/kiddin9/ddns-scripts-aliyun
+SourceName: ddns-scripts-aliyun
+License: GPLv2
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Sense <sensec@gmail.com>
+Architecture: all
+Installed-Size: 2847
+Filename: ddns-scripts-aliyun_1.0.3-6_all.ipk
+Size: 3730
+SHA256sum: b1e06b0d8b1400e0e3fc9c3705e7aaec5713f3776a028b6945a11b489347a4d4
+Description:  Dynamic DNS Client scripts extension for AliYun.com
+
+Package: ddns-scripts-dnspod
+Version: 1.0.3-5
+Depends: libc, ddns-scripts, curl, jsonfilter
+Source: feeds/kiddin9/ddns-scripts-dnspod
+SourceName: ddns-scripts-dnspod
+License: GPLv2
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Small_5
+Architecture: all
+Installed-Size: 2361
+Filename: ddns-scripts-dnspod_1.0.3-5_all.ipk
+Size: 3239
+SHA256sum: b1f84455d6cb50e713057b6c1d4d445e9c143aebb27d165a00f2bfc7e1c96d04
+Description:  Dynamic DNS Client scripts extension for Dnspod.com/Dnspod.cn
+
+Package: dns2socks
+Version: 2.1-20200218
+Depends: libc, libpthread
+Source: feeds/kiddin9/dns2socks
+SourceName: dns2socks
+License: BSD-3-Clause
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: ghostmaker
+Architecture: x86_64
+Installed-Size: 10471
+Filename: dns2socks_2.1-20200218_x86_64.ipk
+Size: 11254
+SHA256sum: a223e8e6b0d8ba3b811e1f098e051477d39708acbfc02fb0bae9fca9af3258b9
+Description:  This is a utility to resolve DNS requests via a SOCKS5 tunnel and caches the answers.
+
+Package: filebrowser
+Version: 2.17.0-1
+Depends: libc
+Source: feeds/kiddin9/filebrowser
+SourceName: filebrowser
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1629664462
+Maintainer: CN_SZTL <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 7796329
+Filename: filebrowser_2.17.0-1_x86_64.ipk
+Size: 7798595
+SHA256sum: d01e3f386c4e96e00c003553dc7e64b4f2ee3565a4dd3d6bd081ab9aa7b27e8f
+Description:  filebrowser provides a file managing interface within a specified directory
+ and it can be used to upload, delete, preview, rename and edit your files.
+ It allows the creation of multiple users and each user can have its own directory.
+ It can be used as a standalone app or as a middleware.
+
+Package: gowebdav
+Version: 0.0.2-1
+Depends: libc
+Source: feeds/kiddin9/gowebdav
+SourceName: gowebdav
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: CN_SZTL <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 1570879
+Filename: gowebdav_0.0.2-1_x86_64.ipk
+Size: 1571988
+SHA256sum: f2c48acba1acc4a11f418a678ececfd43754659af282d2a89092fc5d7afd0581
+Description:  A simple WebDav server written in Golang.
+
+Package: ipt2socks
+Version: 1.1.3-1
+Depends: libc
+Source: feeds/kiddin9/ipt2socks
+SourceName: ipt2socks
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 35338
+Filename: ipt2socks_1.1.3-1_x86_64.ipk
+Size: 36191
+SHA256sum: 90093b4bcba5412207a4ab8bb0e2cbae5ab4d1ef785982d4ea02352043a24a89
+Description:  Utility for converting iptables (REDIRECT/TPROXY) to SOCKS5.
+
+Package: iptables-mod-fullconenat
+Version: 2019-10-21-0cf3b48f-3
+Depends: libc, iptables, kmod-ipt-fullconenat
+Source: feeds/kiddin9/openwrt-fullconenat
+SourceName: iptables-mod-fullconenat
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Chion Tang <tech@chionlab.moe>
+Architecture: x86_64
+Installed-Size: 2416
+Filename: iptables-mod-fullconenat_2019-10-21-0cf3b48f-3_x86_64.ipk
+Size: 3223
+SHA256sum: 67741bd890986a1ae9ad4962799c05a5a8645f9b4b15d39ae416fc3750b99ee0
+Description:  FULLCONENAT iptables extension
+
+Package: lua-maxminddb
+Version: 0.2-1
+Depends: libc, lua, libmaxminddb
+Source: feeds/kiddin9/lua-maxminddb
+SourceName: lua-maxminddb
+License: MIT
+Section: lang
+SourceDateEpoch: 1629664462
+Maintainer: fabled
+Architecture: x86_64
+Installed-Size: 2490
+Filename: lua-maxminddb_0.2-1_x86_64.ipk
+Size: 3229
+SHA256sum: 48fd62cc75f50020275a6a0519ab433d76efdc9a6c2ff3ca68e078ea2bde2bf9
+Description:  libmaxminddb bindings for lua
+
+Package: luci-app-aliddns
+Version: 0.3.0-1
+Depends: libc, openssl-util, curl
+Source: feeds/kiddin9/luci-app-aliddns
+SourceName: luci-app-aliddns
+License: MIT
+LicenseFiles: LICENSE
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: chenhw2 <https://github.com/chenhw2/>
+Architecture: all
+Installed-Size: 3605
+Filename: luci-app-aliddns_0.3.0-1_all.ipk
+Size: 4519
+SHA256sum: bf53ce1d1b6fd172230e8fc6232a103b63dd3d7d2841a289d3dfcc3164baeb05
+Description:  LuCI Support for ALiDDNS.
+
+Package: luci-app-argon-config
+Version: 0.9-20210309
+Depends: libc, luci-compat, luci-theme-argon
+Source: feeds/kiddin9/luci-app-argon-config
+SourceName: luci-app-argon-config
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 4826
+Filename: luci-app-argon-config_0.9-20210309_all.ipk
+Size: 5579
+SHA256sum: 81390bae31eb52d336d564367962b93b5a4157b892085c2d42b921a14839825f
+Description:  LuCI page for Argon Config
+
+Package: luci-app-bypass
+Version: 1.2-74
+Depends: libc, ipset, ip-full, iptables-mod-tproxy, dnsmasq-full, smartdns-le, coreutils, coreutils-base64, curl, tcping, chinadns-ng, lua, luci-compat, unzip, lua-maxminddb, shadowsocks-libev-ss-server, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-server, simple-obfs, xray-core, redsocks2, microsocks
+Source: feeds/kiddin9/luci-app-bypass
+SourceName: luci-app-bypass
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 2652853
+Filename: luci-app-bypass_1.2-74_all.ipk
+Size: 2472050
+SHA256sum: c2febbbb760e15ba80e8c8521ef1c02fc0f4fb07c402023b175da208946c6585
+Description:  SS/SSR/Xray/Trojan/Trojan-Go/NaiveProxy/Socks5/Tun LuCI interface
+
+Package: luci-app-control-timewol
+Version: 1.0-3-20190309
+Depends: libc, etherwake
+Source: feeds/kiddin9/luci-app-control-timewol
+SourceName: luci-app-control-timewol
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 2814
+Filename: luci-app-control-timewol_1.0-3-20190309_all.ipk
+Size: 3672
+SHA256sum: e226648f435894e488b4244e062d22056c373f876e8e3b87a56627f0b7290ac6
+Description:  LuCI support for Timewol From Koolshare
+
+Package: luci-app-control-webrestriction
+Version: 1.0-5-20200107
+Depends: libc
+Source: feeds/kiddin9/luci-app-control-webrestriction
+SourceName: luci-app-control-webrestriction
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 3136
+Filename: luci-app-control-webrestriction_1.0-5-20200107_all.ipk
+Size: 3989
+SHA256sum: 18af470d88e9a5b18961821abd2ba95543254c765f2f62787e2b77f40d626544
+Description:  LuCI support for Webrestriction From Koolshare
+
+Package: luci-app-control-weburl
+Version: 1.0-3-20190309
+Depends: libc, iptables-mod-filter, kmod-ipt-filter
+Source: feeds/kiddin9/luci-app-control-weburl
+SourceName: luci-app-control-weburl
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 3182
+Filename: luci-app-control-weburl_1.0-3-20190309_all.ipk
+Size: 4054
+SHA256sum: f18e96044d5aac320d63e89ec1c7909d785de30b6de12be7481cb65b5bd078da
+Description:  LuCI support for Weburl From Koolshare
+
+Package: luci-app-ddns
+Version: git-21.234.74062-c129375-1
+Depends: libc, luci-lib-ipkg, luci-mod-admin-full, ddns-scripts, ddns-scripts-aliyun, ddns-scripts-dnspod
+Source: feeds/kiddin9/luci-app-ddns
+SourceName: luci-app-ddns
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: all
+Installed-Size: 12447
+Filename: luci-app-ddns_git-21.234.74062-c129375-1_all.ipk
+Size: 13446
+SHA256sum: 98f80d986967865a13a6a9589d8c688586f482f37c7506e13b38893fc29480ae
+Description:  LuCI Support for Dynamic DNS Client (ddns-scripts)
+
+Package: luci-app-dnsfilter
+Version: 1.0-9
+Depends: libc, curl, dnsmasq-full, ipset
+Source: feeds/kiddin9/luci-app-dnsfilter
+SourceName: luci-app-dnsfilter
+License: GPLv2
+Section: LuCI
+SourceDateEpoch: 1629664462
+Maintainer: small_5 GaryPang
+Architecture: all
+Installed-Size: 9350
+Filename: luci-app-dnsfilter_1.0-9_all.ipk
+Size: 10046
+SHA256sum: bf3b9fe7f2e340ca5aee087e6623f6f30101f6dd1034ef8dcb15ec4fc6546286
+Description:  Luci Support for DNSFilter.
+
+Package: luci-app-eqos
+Version: git-21.234.74062-c129375-1
+Depends: libc, luci-base, tc, kmod-sched-core, kmod-ifb
+Source: feeds/kiddin9/luci-app-eqos
+SourceName: luci-app-eqos
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: Jianhui Zhao <jianhuizhao329@gmail.com> GaryPang <https://github.com/garypang13/luci-app-eqos>
+Architecture: all
+Installed-Size: 2331
+Filename: luci-app-eqos_git-21.234.74062-c129375-1_all.ipk
+Size: 3311
+SHA256sum: 5425aff9b194791a575f8454db2e7148f3281461747a6922e9f0243b8779e613
+Description:  EQOS - LuCI interface
+
+Package: luci-app-fileassistant
+Version: 1.0-2
+Depends: libc
+Source: feeds/kiddin9/luci-app-fileassistant
+SourceName: luci-app-fileassistant
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 8851
+Filename: luci-app-fileassistant_1.0-2_all.ipk
+Size: 9593
+SHA256sum: 697e11fb8d31dcc7e2bf4a4773d4cbaaf5d273012d15f702918c79501a4448b9
+Description:  LuCI support for Fileassistant
+
+Package: luci-app-filebrowser
+Version: snapshot-118071b
+Depends: libc, filebrowser
+Source: feeds/kiddin9/luci-app-filebrowser
+SourceName: luci-app-filebrowser
+License: GPLv3
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 2126
+Filename: luci-app-filebrowser_snapshot-118071b_all.ipk
+Size: 3002
+SHA256sum: 7bc4a3638fc8cbdff60b2181d01d58d89516f5944f08950f6665cd79588c8b62
+Description:  LuCI Support for FileBrowser
+
+Package: luci-app-gowebdav
+Version: 1.0-1
+Depends: libc, gowebdav
+Source: feeds/kiddin9/luci-app-gowebdav
+SourceName: luci-app-gowebdav
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: CN_SZTL <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 2380
+Filename: luci-app-gowebdav_1.0-1_all.ipk
+Size: 3275
+SHA256sum: ae4e933e426e7ba425beaaaa228e2aad61f4319b35aa04730f58eec4428a3419
+Description:  LuCI support for GoWebDav
+
+Package: luci-app-mentohust
+Version: 1.1.1-0
+Depends: libc, mentohust
+Source: feeds/kiddin9/luci-app-mentohust
+SourceName: luci-app-mentohust
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 4662
+Filename: luci-app-mentohust_1.1.1-0_all.ipk
+Size: 5433
+SHA256sum: f3b71beb9b4fa1a22b154359efe2b38f8580638e0a00e45d5780bdabbbf6eae3
+Description:  This package contains LuCI configuration pages for 8021xclient.
+
+Package: luci-app-passwall
+Version: 4.34-1
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, dnsmasq-full, ipset, ip-full, ipt2socks, iptables-mod-tproxy, libuci-lua, lua, luci-lib-jsonc, microsocks, tcping, resolveip, unzip, chinadns-ng, dns2socks, haproxy, naiveproxy, pdnsd-alt, v2ray-core
+Source: feeds/kiddin9/luci-app-passwall
+SourceName: luci-app-passwall
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 817717
+Filename: luci-app-passwall_4.34-1_all.ipk
+Size: 817837
+SHA256sum: 70c243b71af6584e15264a01f07d28163d26fce2cb58c91064426b24e94b5c73
+Description:  LuCI support for PassWall
+
+Package: luci-app-poweroff
+Version: 20200726-1
+Depends: libc
+Source: feeds/kiddin9/luci-app-poweroff
+SourceName: luci-app-poweroff
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 1267
+Filename: luci-app-poweroff_20200726-1_all.ipk
+Size: 2018
+SHA256sum: 215eb65e9ce052e08b4fce46290b11428962d99bd0823c286cab81da01990f53
+Description:  LuCI Support of PowerOff Router
+
+Package: luci-app-ramfree
+Version: 1.0-1
+Depends: libc
+Source: feeds/kiddin9/luci-app-ramfree
+SourceName: luci-app-ramfree
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 606
+Filename: luci-app-ramfree_1.0-1_all.ipk
+Size: 1323
+SHA256sum: 5fbd5b1a96221479efb61ea8310fb83524aaf4d2369fb78f658491f926a981ec
+Description:  luci-app-ramfree
+
+Package: luci-app-sms-tool
+Version: 1.9.0-30072021-1
+Depends: libc, sms-tool, kmod-usb-serial, kmod-usb-serial-option, luci-compat
+Source: feeds/kiddin9/luci-app-sms-tool
+SourceName: luci-app-sms-tool
+License: GPLv3
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 12944
+Filename: luci-app-sms-tool_1.9.0-30072021-1_all.ipk
+Size: 13877
+SHA256sum: 529332898291c5ae1b9b86e2c02440776d78ed5947f453956d62f4d08a8471a8
+Description:  LuCI Support for sms_tool
+
+Package: luci-app-softethervpn5
+Version: 1.09-1
+Depends: libc, softethervpn5-server, softethervpn5-bridge, softethervpn5-client
+Source: feeds/kiddin9/luci-app-softethervpn5
+SourceName: luci-app-softethervpn5
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 2577
+Filename: luci-app-softethervpn5_1.09-1_all.ipk
+Size: 3455
+SHA256sum: dca9f6a824a9ec976aafaff53b2eee8370a3ecd38a0c1d53882cb2b2cae8033c
+Description:  LuCI Support for softethervpn5
+
+Package: luci-app-ssocks
+Version: 1.0-1
+Depends: libc, busybox, iptables, ssocksd
+Source: feeds/kiddin9/luci-app-ssocks
+SourceName: luci-app-ssocks
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: ImmortalWrt
+Architecture: all
+Installed-Size: 2610
+Filename: luci-app-ssocks_1.0-1_all.ipk
+Size: 3480
+SHA256sum: 13b3d58b69648f9ecf2b1a30a0800a5d114f1db3ac0a4ec111740cdcd30c32b7
+Description:  LuCI support for sSocks
+
+Package: luci-app-vssr
+Version: 1.22-2-20210512
+Depends: libc, ipset, ip-full, iptables-mod-tproxy, dnsmasq-full, coreutils, coreutils-base64, bash, pdnsd-alt, wget-ssl, lua, luasocket, lua-maxminddb, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-check, simple-obfs
+Source: feeds/kiddin9/luci-app-vssr
+SourceName: luci-app-vssr
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 3184382
+Filename: luci-app-vssr_1.22-2-20210512_all.ipk
+Size: 3013356
+SHA256sum: a58e52f32afc87ef9ee2d32cd4b3b98c5c2beac4ffa18143d75b30df0868753e
+Description:  A New SS/SSR/Xray/Trojan LuCI interface
+
+Package: luci-app-webadmin
+Version: 1.0-3
+Depends: libc, uhttpd
+Source: feeds/kiddin9/luci-app-webadmin
+SourceName: luci-app-webadmin
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 1367
+Filename: luci-app-webadmin_1.0-3_all.ipk
+Size: 2093
+SHA256sum: 37c53662116093fdd219441b72a71c80f0b22f50e501114046d9863f53d6eeb9
+Description:  LuCI page for Web Admin
+
+Package: luci-i18n-aliddns-zh-cn
+Version: 0.3.0-1
+Depends: libc, luci-app-aliddns
+Source: feeds/kiddin9/luci-app-aliddns
+SourceName: luci-i18n-aliddns-zh-cn
+License: MIT
+LicenseFiles: LICENSE
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: chenhw2 <https://github.com/chenhw2/>
+Architecture: all
+Installed-Size: 767
+Filename: luci-i18n-aliddns-zh-cn_0.3.0-1_all.ipk
+Size: 1670
+SHA256sum: 892c657563af32ce5959c9af52db726b33a84f2a38d579bb2be354048658b01a
+Description:  Translation for luci-app-aliddns - 中文 (Chinese)
+
+Package: luci-i18n-control-timewol-zh-cn
+Version: 1.0-3-20190309
+Depends: libc, luci-app-control-timewol
+Source: feeds/kiddin9/luci-app-control-timewol
+SourceName: luci-i18n-control-timewol-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 406
+Filename: luci-i18n-control-timewol-zh-cn_1.0-3-20190309_all.ipk
+Size: 1245
+SHA256sum: 0ee6d3b6686c0fad42fc2232d6d636c181c73e80485b8c2cd7b21cb32c033f24
+Description:  Translation for luci-app-control-timewol - 中文 (Chinese)
+
+Package: luci-i18n-control-webrestriction-zh-cn
+Version: 1.0-5-20200107
+Depends: libc, luci-app-control-webrestriction
+Source: feeds/kiddin9/luci-app-control-webrestriction
+SourceName: luci-i18n-control-webrestriction-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 413
+Filename: luci-i18n-control-webrestriction-zh-cn_1.0-5-20200107_all.ipk
+Size: 1253
+SHA256sum: 5d1e022572ab1970d5ff02cf03a7b3d53d3b42c9305d92fba77173a97559a2c0
+Description:  Translation for luci-app-control-webrestriction - 中文 (Chinese)
+
+Package: luci-i18n-control-weburl-zh-cn
+Version: 1.0-3-20190309
+Depends: libc, luci-app-control-weburl
+Source: feeds/kiddin9/luci-app-control-weburl
+SourceName: luci-i18n-control-weburl-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 406
+Filename: luci-i18n-control-weburl-zh-cn_1.0-3-20190309_all.ipk
+Size: 1241
+SHA256sum: 761f569b29e081d2cea2195df68633a764d235f6bb051187c74b7f945dd8b4c9
+Description:  Translation for luci-app-control-weburl - 中文 (Chinese)
+
+Package: luci-i18n-ddns-zh-cn
+Version: git-21.234.74062-c129375-1
+Depends: libc, luci-app-ddns
+Source: feeds/kiddin9/luci-app-ddns
+SourceName: luci-i18n-ddns-zh-cn
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: all
+Installed-Size: 5087
+Filename: luci-i18n-ddns-zh-cn_git-21.234.74062-c129375-1_all.ipk
+Size: 5966
+SHA256sum: 0ad296e6eb3f404bc3a1b6c08f7509e2efc9c733d58c8ff3f49135818eececd7
+Description:  Translation for luci-app-ddns - 中文 (Chinese)
+
+Package: luci-i18n-eqos-zh-cn
+Version: git-21.234.74062-c129375-1
+Depends: libc, luci-app-eqos
+Source: feeds/kiddin9/luci-app-eqos
+SourceName: luci-i18n-eqos-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: Jianhui Zhao <jianhuizhao329@gmail.com> GaryPang <https://github.com/garypang13/luci-app-eqos>
+Architecture: all
+Installed-Size: 570
+Filename: luci-i18n-eqos-zh-cn_git-21.234.74062-c129375-1_all.ipk
+Size: 1489
+SHA256sum: 3d12a8836eae47a69d961a7588a83bc983d31d59cc51c076e568fde626e128a5
+Description:  Translation for luci-app-eqos - 中文 (Chinese)
+
+Package: luci-i18n-gowebdav-zh-cn
+Version: 1.0-1
+Depends: libc, luci-app-gowebdav
+Source: feeds/kiddin9/luci-app-gowebdav
+SourceName: luci-i18n-gowebdav-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: CN_SZTL <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 1030
+Filename: luci-i18n-gowebdav-zh-cn_1.0-1_all.ipk
+Size: 1909
+SHA256sum: 85126c02419f1f7ecb019fd1d9ddcc4ee774bec3f126bba7780ebcda42cbff56
+Description:  Translation for luci-app-gowebdav - 中文 (Chinese)
+
+Package: luci-i18n-passwall-zh-cn
+Version: 4.34-1
+Depends: libc, luci-app-passwall
+Source: feeds/kiddin9/luci-app-passwall
+SourceName: luci-i18n-passwall-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 10253
+Filename: luci-i18n-passwall-zh-cn_4.34-1_all.ipk
+Size: 11089
+SHA256sum: 248c9e1a0fb35f4b1c4eb55d7cad0356a6687e0292a616e0c88cba4e552972e1
+Description:  Translation for luci-app-passwall - 中文 (Chinese)
+
+Package: luci-i18n-poweroff-zh-cn
+Version: 20200726-1
+Depends: libc, luci-app-poweroff
+Source: feeds/kiddin9/luci-app-poweroff
+SourceName: luci-i18n-poweroff-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 668
+Filename: luci-i18n-poweroff-zh-cn_20200726-1_all.ipk
+Size: 1504
+SHA256sum: fb1c7ca126e16d37b8a805d8f852578c18be528ff47c16c7f46f0ad3b04f65c8
+Description:  Translation for luci-app-poweroff - 中文 (Chinese)
+
+Package: luci-i18n-ramfree-zh-cn
+Version: 1.0-1
+Depends: libc, luci-app-ramfree
+Source: feeds/kiddin9/luci-app-ramfree
+SourceName: luci-i18n-ramfree-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 411
+Filename: luci-i18n-ramfree-zh-cn_1.0-1_all.ipk
+Size: 1236
+SHA256sum: 08536e55d7be9b72706c15347564173a5a9e7e0d3589db4c8e6d1cf6a074a5a2
+Description:  Translation for luci-app-ramfree - 中文 (Chinese)
+
+Package: luci-i18n-softethervpn5-zh-cn
+Version: 1.09-1
+Depends: libc, luci-app-softethervpn5
+Source: feeds/kiddin9/luci-app-softethervpn5
+SourceName: luci-i18n-softethervpn5-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 617
+Filename: luci-i18n-softethervpn5-zh-cn_1.09-1_all.ipk
+Size: 1451
+SHA256sum: 4c1f6be5c21cb66b60b2c52976f7fbc2c92062421c291f35e33e3b071eb255b2
+Description:  Translation for luci-app-softethervpn5 - 中文 (Chinese)
+
+Package: luci-i18n-ssocks-zh-cn
+Version: 1.0-1
+Depends: libc, luci-app-ssocks
+Source: feeds/kiddin9/luci-app-ssocks
+SourceName: luci-i18n-ssocks-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Maintainer: ImmortalWrt
+Architecture: all
+Installed-Size: 800
+Filename: luci-i18n-ssocks-zh-cn_1.0-1_all.ipk
+Size: 1652
+SHA256sum: 83758d02e5820992465ae4a4baec1f6667e9e8523b903f608a7436ef9e0ad688
+Description:  Translation for luci-app-ssocks - 中文 (Chinese)
+
+Package: luci-i18n-webadmin-zh-cn
+Version: 1.0-3
+Depends: libc, luci-app-webadmin
+Source: feeds/kiddin9/luci-app-webadmin
+SourceName: luci-i18n-webadmin-zh-cn
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 779
+Filename: luci-i18n-webadmin-zh-cn_1.0-3_all.ipk
+Size: 1622
+SHA256sum: bea9055f52fad25cfd961050f871daf3c17d9b6cb99a9dfd58db6ff19b4dc52a
+Description:  Translation for luci-app-webadmin - 中文 (Chinese)
+
+Package: luci-theme-argon
+Version: 2.2.7-20210318
+Depends: libc
+Source: feeds/kiddin9/luci-theme-argon
+SourceName: luci-theme-argon
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 357387
+Filename: luci-theme-argon_2.2.7-20210318_all.ipk
+Size: 358074
+SHA256sum: ab7774b31e78434e5505381ae94399da63509c9b67c4a1f8b299ceceb994f133
+Description:  Argon Theme
+
+Package: luci-theme-edge
+Version: git-21.234.74062-c129375-1
+Depends: libc, curl
+Source: feeds/kiddin9/luci-theme-edge
+SourceName: luci-theme-edge
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1629664462
+Architecture: all
+Installed-Size: 231636
+Filename: luci-theme-edge_git-21.234.74062-c129375-1_all.ipk
+Size: 232672
+SHA256sum: 1f4423b2fa83c0b00ccbc234ac9e58f46eb88a0ada1d4eef565eb6bc4b0ab195
+Description:  Edge Theme
+
+Package: mentohust
+Version: 0.3.1-1
+Depends: libc, libpcap1
+Source: feeds/kiddin9/MentoHUST-OpenWrt-ipk
+SourceName: mentohust
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 80045
+Filename: mentohust_0.3.1-1_x86_64.ipk
+Size: 80959
+SHA256sum: 42572c85185456ecb1ef653d2c1bd615c1f589062b6e23dc5d31936a8c36e0ca
+Description:  A Ruijie Client Daemon,
+ Most usually used in China collages.
+
+Package: microsocks
+Version: 1.0.2-2
+Depends: libc
+Source: feeds/kiddin9/microsocks
+SourceName: microsocks
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: lean
+Architecture: x86_64
+Installed-Size: 5351
+Filename: microsocks_1.0.2-2_x86_64.ipk
+Size: 6112
+SHA256sum: 0a67cc1703d2977c48909ac5192a8690a1aedd2c2405690640de251996f70005
+Description:  microsocks is a Tiny Proxy in C.
+
+Package: naiveproxy
+Version: 92.0.4515.107-1-1
+Depends: libc, libatomic1
+Source: feeds/kiddin9/naiveproxy
+SourceName: naiveproxy
+License: BSD 3-Clause
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 2392912
+Filename: naiveproxy_92.0.4515.107-1-1_x86_64.ipk
+Size: 2390920
+SHA256sum: 38998616deb2065e2df71fe3ec907c5061e50df4217cc5898a0c924d7b9cc1df
+Description:  NaïveProxy uses Chrome's network stack to camouflage traffic with strong
+ censorship resistance and low detectability. Reusing Chrome's stack also
+ ensures best practices in performance and security.
+
+Package: pdnsd-alt
+Version: 1.2.9b-par-a8e46ccba7b0fa2230d6c42ab6dcd92926f6c21d
+Depends: libc, libpthread
+Source: feeds/kiddin9/pdnsd-alt
+SourceName: pdnsd-alt
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 93743
+Filename: pdnsd-alt_1.2.9b-par-a8e46ccba7b0fa2230d6c42ab6dcd92926f6c21d_x86_64.ipk
+Size: 94823
+SHA256sum: 4cf3d2b006f6a65febaf6e9151ee5e312b8df91375b1fabdd4395ebf90fa9e09
+Description:  pdnsd, is an IPv6 capable proxy DNS server with permanent caching (the cache
+ contents are written to hard disk on exit) that is designed to cope with
+ unreachable or down DNS servers (for example in dial-in networking).
+ 
+ pdnsd can be used with applications that do dns lookups, eg on startup, and
+ can't be configured to change that behaviour, to prevent the often
+ minute-long hangs (or even crashes) that result from stalled dns queries.
+
+Package: qBittorrent-static
+Version: 4.3.7_v1.2.14-1
+Depends: libc
+Source: feeds/kiddin9/qBittorrent-static
+SourceName: qBittorrent-static
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 15995883
+Filename: qBittorrent-static_4.3.7_v1.2.14-1_x86_64.ipk
+Size: 15968940
+SHA256sum: 35ab7cff94cdd489fb0085e922b98220c635f567eb60ae64b5e4596f90974d17
+Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
+ libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
+ It aims to be a good alternative to all other bittorrent clients out
+ there. qBittorrent is fast, stable and provides unicode support as
+ well as many features.
+
+Package: qt5-core
+Version: 5.15.2-1
+Depends: libc, libgcc1, libstdcpp6, libatomic1, libpcre2-16, zlib
+Source: feeds/kiddin9/qtbase
+SourceName: qt5-core
+Section: libs
+SourceDateEpoch: 1629664462
+CPE-ID: cpe:/a:qt:qt
+Architecture: x86_64
+Installed-Size: 2683002
+Filename: qt5-core_5.15.2-1_x86_64.ipk
+Size: 2677815
+SHA256sum: bbfca1a7fdf69ac2039135d6aa9395cfdb18d6cfe46135c49526decb59133e42
+Description:  This package contains the qt5 core library.
+
+Package: qt5-network
+Version: 5.15.2-1
+Depends: libc, libgcc1, libstdcpp6, qt5-core, libopenssl1.1, zlib
+Source: feeds/kiddin9/qtbase
+SourceName: qt5-network
+Section: libs
+SourceDateEpoch: 1629664462
+CPE-ID: cpe:/a:qt:qt
+Architecture: x86_64
+Installed-Size: 538140
+Filename: qt5-network_5.15.2-1_x86_64.ipk
+Size: 538054
+SHA256sum: b9960e5b91391f4ebbf28a4e40efb1144d5b86de0ff5f5e837119467e9b69b88
+Description:  This package contains the qt5 network library.
+
+Package: qt5-sql
+Version: 5.15.2-1
+Depends: libc, libgcc1, libstdcpp6, qt5-core
+Source: feeds/kiddin9/qtbase
+SourceName: qt5-sql
+Section: libs
+SourceDateEpoch: 1629664462
+CPE-ID: cpe:/a:qt:qt
+Architecture: x86_64
+Installed-Size: 90429
+Filename: qt5-sql_5.15.2-1_x86_64.ipk
+Size: 91231
+SHA256sum: a96efce598bfae2e5c0da3fc325accafbf8a35dccc5a366c8535667a2538fae2
+Description:  This package contains the qt5 sql library.
+
+Package: qt5-xml
+Version: 5.15.2-1
+Depends: libc, libgcc1, libstdcpp6, qt5-core
+Source: feeds/kiddin9/qtbase
+SourceName: qt5-xml
+Section: libs
+SourceDateEpoch: 1629664462
+CPE-ID: cpe:/a:qt:qt
+Architecture: x86_64
+Installed-Size: 95711
+Filename: qt5-xml_5.15.2-1_x86_64.ipk
+Size: 96477
+SHA256sum: d1282acd04d7def372fecde9aad70583d786ade9a0b978c1c90b8c82d59fc3bf
+Description:  This package contains the qt5 xml library.
+
+Package: qtbase
+Version: 5.15.2-1
+Depends: libc, libgcc1, libstdcpp6, qt5-core, qt5-network, qt5-xml, qt5-sql
+Source: feeds/kiddin9/qtbase
+SourceName: qtbase
+Section: libs
+SourceDateEpoch: 1629664462
+CPE-ID: cpe:/a:qt:qt
+Architecture: x86_64
+Installed-Size: 117
+Filename: qtbase_5.15.2-1_x86_64.ipk
+Size: 1110
+SHA256sum: e194b76eacaa04955cfa4909714fec93fb2f58fae481cd291fe51c5c10faf906
+Description:  This package provides the Qt5 libraries.
+ 
+ Qt is a cross-platform application development framework for desktop, embedded and mobile.
+ Supported Platforms include Linux, OS X, Windows, VxWorks, QNX, Android, iOS, BlackBerry,
+ Sailfish OS and others.
+ 
+ Qt is not a programming language on its own. It is a framework written in C++.
+ 
+ This package provides the following run-time libraries:
+ - core
+ - network
+ - xml
+
+Package: redsocks2
+Version: 0.67-4
+Depends: libc, libevent27, libopenssl1.1
+Source: feeds/kiddin9/redsocks2
+SourceName: redsocks2
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: semigodking <semigodking@gmail.com>
+Architecture: x86_64
+Installed-Size: 56341
+Filename: redsocks2_0.67-4_x86_64.ipk
+Size: 57294
+SHA256sum: 60491afe06a21c1e883fb671dac1ea6e7ee9f9ecf692fd94f26d048789ceb1e1
+Description:  This is a modified version of original redsocks. The name is changed to be REDSOCKS2 since this release to distinguish with original redsocks. This variant is useful for anti-GFW (Great Fire Wall).
+
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/kiddin9/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-check
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 2374
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_x86_64.ipk
+Size: 3138
+SHA256sum: 3afe4f80ab89e0ffac244fa2d05308412a4c123303d687ad6e6dd7de3de8c0ed
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/kiddin9/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-local
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 62749
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_x86_64.ipk
+Size: 63656
+SHA256sum: 742b5e295eb8fb73eae99a3ae60450e98028953160f16c85c85e0602d4338182
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/kiddin9/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-redir
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 56237
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_x86_64.ipk
+Size: 57112
+SHA256sum: f4c14f8f5db731d6a10ff7a2eb5bd1065793bb50a22137e052c51b0329177dd5
+Description:  shadowsocksr-libev ssr-redir
+
+Package: shadowsocksr-libev-ssr-server
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/kiddin9/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-server
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 65326
+Filename: shadowsocksr-libev-ssr-server_2.5.6-9_x86_64.ipk
+Size: 66230
+SHA256sum: 8faaf5b24831319dd35d316a32eb76237f9d8e2305d69c3512ab974035f60c06
+Description:  shadowsocksr-libev ssr-server
+
+Package: simple-obfs
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+Source: feeds/kiddin9/simple-obfs
+SourceName: simple-obfs
+License: GPL-3.0-or-later
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: x86_64
+Installed-Size: 30152
+Filename: simple-obfs_0.0.5-4_x86_64.ipk
+Size: 30968
+SHA256sum: a4c63fe27b4158ebcedac90ecb5076d821c443a6411be005881ea52ce3a604c7
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: smartdns-le
+Version: 2021.07.30-2
+Depends: libc, libpthread, libopenssl1.1
+Source: feeds/kiddin9/smartdns-le
+SourceName: smartdns-le
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: x86_64
+Installed-Size: 80968
+Filename: smartdns-le_2021.07.30-2_x86_64.ipk
+Size: 81999
+SHA256sum: aa0dc97e623f3bbd1b999a39fcc793cf5c09ad637270d340c345f060a8b79408
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ gets DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: sms-tool
+Version: 2021-05-07-e9efc352-1
+Depends: libc
+Source: feeds/kiddin9/sms-tool
+SourceName: sms-tool
+Section: utils
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 7905
+Filename: sms-tool_2021-05-07-e9efc352-1_x86_64.ipk
+Size: 8651
+SHA256sum: 183106436669e7071175fc5e73ec3715c599df81cee178b6fc28b894168a09bc
+Description:  SMS Tool for 3G/4G modem
+
+Package: ssocksd
+Version: 0.0.14-1
+Depends: libc, libopenssl1.1
+Source: feeds/kiddin9/ssocks
+SourceName: ssocksd
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 14760
+Filename: ssocksd_0.0.14-1_x86_64.ipk
+Size: 15585
+SHA256sum: f4aa8e35dbc3087c4fba49485ddd19c1d574c60c9e78d8b2797774a77be1b8f2
+Description:  sSocks is a package which contains: a socks5 server implements RFC 1928 (SOCKS V5) and RFC 1929 (Authentication for SOCKS V5), a reverse socks server and client, a netcat like tool and a socks5 relay.
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+Source: feeds/kiddin9/tcping
+SourceName: tcping
+License: GPL-2.0-only
+Section: net
+SourceDateEpoch: 1629664462
+Architecture: x86_64
+Installed-Size: 3558
+Filename: tcping_0.3-1_x86_64.ipk
+Size: 4305
+SHA256sum: e9259e8c4564269ad43b10b4968a2ac2ee2883fea7ad8e713005843df885d4d0
+Description:  tcping measures the latency of a tcp-connection
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-bundle
+Source: feeds/kiddin9/v2ray-core
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629664462
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 4919412
+Filename: v2ray-core_4.41.1-1_x86_64.ipk
+Size: 4921157
+SHA256sum: 095d2d7b5f709d689458078105bcc39b3fee412f843c1a244220953c071afdbd
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+

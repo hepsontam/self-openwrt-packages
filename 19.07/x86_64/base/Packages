@@ -4,10 +4,10 @@ Depends: libc
 License: GPL-3.0
 Section: multimedia
 Architecture: x86_64
-Installed-Size: 1798635
+Installed-Size: 1798725
 Filename: UnblockNeteaseMusic-Go_0.2.12-1_x86_64.ipk
-Size: 1799849
-SHA256sum: 7e8b6faefbd09f31389a3d99975cce399f953eff79a706bfae1111bf4cf8392f
+Size: 1799934
+SHA256sum: dd5a11096f806d7698825c03207c0fc2be293030b5700ff6b39dccd65192e875
 Description:  Revive Netease Cloud Music (Golang)
 
 Package: UnblockNeteaseMusic
@@ -197,15 +197,15 @@ SHA256sum: 06c8da7245fe84687e2f0bd8b62b5efb098a8371eaa277259d0e201264eac132
 Description:  System CA certificates
 
 Package: default-settings
-Version: 1.1-56
+Version: 1.1-50
 Depends: libc, luci-base
 License: GPLv3
 Section: luci
 Architecture: all
-Installed-Size: 8980
-Filename: default-settings_1.1-56_all.ipk
-Size: 9747
-SHA256sum: da3cf16b101cd47cb9c45aa59664ab056bd1c29ce3e9ea5343c7a2dd7954696a
+Installed-Size: 9197
+Filename: default-settings_1.1-50_all.ipk
+Size: 9961
+SHA256sum: f936efc7e8c69e2cd72e02e3058c3c76aee1ce03b38baf7fa47b45a9ba4add02
 Description:  Language Support Packages.
 
 Package: dnsmasq-full
@@ -1258,10 +1258,10 @@ Depends: libc, luci-lib-jsonc
 License: AGPL-3.0
 Section: luci
 Architecture: all
-Installed-Size: 3791
+Installed-Size: 3788
 Filename: luci-lib-docker_v0.3.4-1_all.ipk
-Size: 4603
-SHA256sum: d57ac1bfe137a0a299f90832480cd92afee79bcfc9cb09eae7d69a6fdf2d8708
+Size: 4602
+SHA256sum: 16d4ac54bcfd76d8094b3b46d991e504240a735c04641ef4c3d17752357451f9
 Description:  Docker Engine API for LuCI
 
 Package: mdadm
@@ -1400,10 +1400,10 @@ Version: 3.3-1
 Depends: libc, libuuid1, libreadline8, libncurses6, libblkid1
 Section: utils
 Architecture: x86_64
-Installed-Size: 593383
+Installed-Size: 593361
 Filename: parted_3.3-1_x86_64.ipk
-Size: 594174
-SHA256sum: 5e0946a58d03a77137c82b730835fc8c1b63f523d86db6cd28857bccf840f3e0
+Size: 594170
+SHA256sum: abb2b7287bac02890f55828b84aaee4fd948d5288d8567dd4bca71bb8b675386
 Description:  parted Partition editor
  http://www.gnu.org/software/parted/index.shtml
 
@@ -1737,10 +1737,10 @@ Depends: libc, libpthread
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 22460
+Installed-Size: 22457
 Filename: vlmcsd_svn1113-1_x86_64.ipk
-Size: 23259
-SHA256sum: dff45660964b731bc03e1da09135e4b8ce818f2a83924f465c5adf5e806a3741
+Size: 23263
+SHA256sum: 08a1927331af9db8f54672cbc40e49696d256f1fe59088231cf0d25baaaae976
 Description:  vlmcsd is a KMS Emulator in C.
 
 Package: vsftpd-alt
